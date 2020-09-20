@@ -1,0 +1,11 @@
+div {
+    width: 500px;
+    background-color: teal;
+    font-family: Arial;
+    padding: 15px;
+}
+
+h3,
+p {
+    color: white;
+}
